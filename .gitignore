@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.gitconfig
+
+!.config/
+.config/*
+
+!.config/nvim/
+!.config/nvim/**
