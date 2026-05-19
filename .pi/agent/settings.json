@@ -1,9 +1,13 @@
 {
-  "lastChangelogVersion": "0.74.0",
+  "lastChangelogVersion": "0.75.3",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.5",
-  "defaultThinkingLevel": "medium",
+  "defaultThinkingLevel": "high",
   "packages": [
-    "git:github.com/patlux/pi-chatgpt-limit"
+    "git:github.com/patlux/pi-chatgpt-limit",
+    "npm:pi-answer@0.1.4"
+  ],
+  "npmCommand": [
+    "pnpm"
   ]
 }
