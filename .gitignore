@@ -11,3 +11,8 @@
 
 !.pi/
 !.pi/**
+
+!.config/starship.toml
+
+!.config/kitty/
+!.config/kitty/**
